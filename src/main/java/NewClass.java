@@ -1,2 +1,9 @@
-package PACKAGE_NAME;public class NewClass {
+public class NewClass {
+    public static void main(String[] args) {
+        System.out.println("Hello!");
+    }
+
+    public void newFunction() {
+
+    }
 }
